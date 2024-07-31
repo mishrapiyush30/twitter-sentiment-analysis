@@ -1,0 +1,4 @@
+boto3==1.17.4
+pandas==1.2.2
+requests==2.23.0
+python_twitter==3.5
